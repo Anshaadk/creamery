@@ -1,0 +1,403 @@
+body{
+    margin: 0%;
+    
+}
+#firstbody{
+    width: 100%;
+    height: 120vh;
+    background-color: #250800;
+}
+.nav-one{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 170px;
+    
+}
+.nav-one-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    height: 100%;
+  
+}
+.nav-two{
+    display: flex;
+    justify-content: space-around;
+    height: 93px;
+    width: 100%;
+   
+}
+.nav-two-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 80%;
+    height: 100%;
+   
+}
+h3{
+    font-size: 16px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+h3:hover{
+    color: red;
+    cursor: pointer;
+}
+.nav-two-1-1{ 
+    height: 100%;
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-two-textspace{
+    display: flex;
+    align-items: center;
+    height: 100%;
+
+}
+.headerbody{
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    width: 100%;
+    
+}
+.headerbodyp1{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 43%;
+    
+}
+.headerbodyp2{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 43%;
+    
+}
+.b1img{
+    width: 96%;
+    height:103%;
+}
+.b2p1{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 125px;
+   
+    
+}
+.b2p1-1{
+    width: 100%;
+    height: 60%;
+    
+}
+.secondbody{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://creamerynovelties.com/wp-content/uploads/2018/11/product-page-coco-header.jpg?id=274);
+    width: 100%;
+    height: 90vh;
+}
+.secondbody-p{
+    display: flex;
+    align-items: center;
+    width: 90%;
+    height: 100%;
+    
+}
+.secondbody-p1{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 100%;
+    height: 80%;
+   
+  
+}
+.secondbody-p1-1{
+    width: 100%;
+    height: 60%;
+    
+}
+.gallonfont{
+    font-size: 80px;
+    color: #ffffff;
+    text-align: left;
+    font-family: Abril Fatface;
+    font-weight: 400;
+    font-style: normal;
+}
+.button-style{
+    cursor: pointer;
+    padding: 15px;
+    background-color: #f8e766;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-shadow: #f5e98e ;
+}
+.secondbody-p2{
+    width: 100%;
+    height: 80%;
+    
+}
+.secondbody-p2-1{
+    width: 100%;
+    height: 95%;
+}
+.thirdbody{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 90vh;
+    background-color: #250800;
+}
+.thirdbody-p1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 80%;
+   
+}
+.thirdbody-p1-1{
+    width: 80%;
+    height: 95%;
+}
+.thirdbody-p2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 80%;
+   
+    
+}
+.thirdbody-p2-1{
+    width: 100%;
+    height: 60%;
+    
+}
+.eightbody{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 90vh;
+    background-image: url(https://creamerynovelties.com/wp-content/uploads/2018/11/product-page-coco-header.jpg?id=274);
+}
+.eightbody-p1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 80%;
+   
+}
+.eightbody-p1-1{
+    width: 80%;
+    height: 95%;   
+}
+.eightbody-p1-2{
+    width: 96%;
+    height: 77%;   
+}
+.eightbody-p2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 80%;  
+}
+.egithbody-p2-1{
+    width: 100%;
+    height: 60%;
+    
+}
+.lastbody0{
+    width: 100%;
+    height: 100px;
+    background-color: #ffffff;
+}
+.lastbody{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 90vh;
+    background-color: #250800;
+}
+.lastbodyp1{
+    display: flex;
+    align-items: center;
+    width: 90%;
+    height: 90%;
+   
+}
+.lastbodyp1-1{
+    
+    width: 30%;
+    height: 100%;
+    
+    
+}
+.lastbodyp1-1-1{
+    margin-left: 20px;
+    width: 100%;
+    height: 20%;
+    color: white;
+    
+}
+.lastfont1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-size: 21px;
+    font-weight: bolder;
+    
+}
+
+.lastbodyp1-1-2{
+    width: 100%;
+    height: 60%;
+    
+    color: white;
+}
+.lastfont2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: normal;
+    
+}
+.lastbodyp1-1-3{
+    cursor: pointer;
+    height: 10%;
+    width: 100%;
+    color:red;
+
+}
+#test:hover{
+    color: white;
+}
+.lastbodyp1-2{
+    justify-content: space-around;
+    width: 30%;
+    height: 100%;
+    
+}
+.lastbodyp1-2-1 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    height: 30%;
+    color: #ffffff;
+   
+    
+}
+.lastbodyp1-2-1-1{
+    width: 100%;
+    height: 30%;
+    
+}
+.lastbodyp1-2-2{
+    width: 100%;
+    height: 60%;
+    
+
+}
+.lastbodyp1-3{
+    
+    width: 40%;
+    height: 100%;
+    
+}
+.lastbodyp1-3-1{
+    width: 100%;
+    height: 20%;
+    color: white;
+}
+.lastbodyp1-3-2{
+    width: 100%;
+    height: 60%;
+    
+}
+.lastbodyp1-3-2-1{
+    display: flex;
+    align-self: flex-start;
+    height: 20%;
+    width: 100%;
+    
+}
+.lastbodyp1-3-2-1-1{
+    height: 56%;
+    width: 8%;
+    
+    background-image: url(https://creamerynovelties.com/wp-content/uploads/2018/11/HADCO-Icons_Address.png);
+}
+.lastbodyp1-3-2-1-2{
+    height: 10%;
+    width: 80%;
+    color: white;
+}
+
+.lastbodyp1-3-2-2{
+    display: flex;
+    height: 20%;
+    width: 100%; 
+}
+
+.lastbodyp1-3-2-3{
+    height: 20%;
+    width: 100%;
+    
+}
+.lastbodyp1-3-2-4{
+    height: 20%;
+    width: 100%;
+    
+    
+}
+.lastbodyp1-3-2-5{
+    height: 10%;
+    width: 100%;
+   
+}
+.lastbodyp1-3-3{
+    width: 100%;
+    height: 10%;
+    
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 25vh;
+    background-color: #222222;
+}
+.footerpart1{
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    height: 50%;
+    width: 80%;
+}
+.footerpart1-1{
+    margin-top: 23px;
+    width: 100%;
+    height: 35%;
+    color: #aaaaaa;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 15px;
+}
